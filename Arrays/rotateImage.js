@@ -16,15 +16,7 @@
 //      [8, 5, 2],
 //      [9, 6, 3]]
 // Input/Output
-//
-// [time limit] 4000ms (js)
-// [input] array.array.integer a
-//
-// Guaranteed constraints:
-// 1 ≤ a.length ≤ 100,
-// a[i].length = a.length,
-// 1 ≤ a[i][j] ≤ 104.
-//
+
 // [output] array.array.integer
 
 a = [[1, 2, 3],

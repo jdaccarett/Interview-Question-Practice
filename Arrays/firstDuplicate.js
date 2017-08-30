@@ -13,16 +13,7 @@
 // firstDuplicate(a) = -1.
 //
 // Input/Output
-//
-// [time limit] 4000ms (py3)
-// [input] array.integer a
-//
-// Guaranteed constraints:
-// 1 ≤ a.length ≤ 105,
-// 1 ≤ a[i] ≤ a.length.
-//
-// [output] integer
-//
+
 // The element in a that occurs in the array more than once and has the minimal index for its second occurrence. If there are no such elements, return -1.
 
 

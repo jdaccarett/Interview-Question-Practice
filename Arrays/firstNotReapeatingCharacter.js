@@ -15,15 +15,9 @@
 // There are no characters in this string that do not repeat.
 //
 // Input/Output
-//
-// [time limit] 4000ms (py3)
-// [input] string s
-//
+
 // A string that contains only lowercase English letters.
-//
-// Guaranteed constraints:
-// 1 ≤ s.length ≤ 105.
-//
+
 // [output] char
 //
 // The first non-repeating character in s, or '_' if there are no characters that do not repeat.
